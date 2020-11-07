@@ -4,7 +4,7 @@
 [![Javscript](https://img.icons8.com/color/48/000000/javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
 [![Node](https://img.icons8.com/color/48/000000/nodejs.png)](https://en.wikipedia.org/wiki/Node.js)
 [![Express](https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)](https://en.wikipedia.org/wiki/Express.js)
-[![React](https://img.icons8.com/offices/30/000000/react.png)](https://en.wikipedia.org/wiki/React_(web_framework))
+[![React](https://img.icons8.com/office/16/000000/react.png)](https://en.wikipedia.org/wiki/React_(web_framework))
 [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://en.wikipedia.org/wiki/MongoDB)
 [![HTML](https://img.icons8.com/nolan/64/html-filetype.png)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.icons8.com/nolan/64/css-filetype.png)](https://en.wikipedia.org/wiki/CSS)
