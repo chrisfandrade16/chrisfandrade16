@@ -1,4 +1,4 @@
-# Hi 😀! I'm Chirs Andrade.
+# Hi 😀! I'm Chris Andrade.
 
 ### I'm currently looking for spring software internships 🖥️. Below you can find some of my skills.
 [![Javscript](https://img.icons8.com/color/48/000000/javascript.png)](https://en.wikipedia.org/wiki/JavaScript)
